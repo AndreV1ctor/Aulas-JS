@@ -1,2 +1,2 @@
 # Aulas-JS
-Adicionando conteudo de aulas JS
+## Repositório para armazenamento de conteudo aulas JS e TS - Udemy
