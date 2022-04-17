@@ -1,9 +1,9 @@
 # JavaScript - Study repository ⏱️
 
-This is a personal repository for studying the JavaScript language. In this repository, subjects such as JavaScript basics, control structures, function, objects, array, Node. :)
+Repositório pessoal para estudo JavaScript. Neste repositório, assuntos como noções básicas de JavaScript, estruturas de controle, função, objetos, array, Node. :)
 
 
-## Tools
+### Tools
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Documentation
-- [Node.js](https://nodejs.org/en/docs/) - Documentation
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Documentação
+- [Node.js](https://nodejs.org/en/docs/) - Documentação
