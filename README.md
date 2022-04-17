@@ -1,4 +1,4 @@
-# JavaScript - Study repository ⏱️
+# JavaScript - Repositório de armazenamento ⏱️
 
 Repositório pessoal para estudo JavaScript. Neste repositório, assuntos como noções básicas de JavaScript, estruturas de controle, função, objetos, array, Node. :)
 
